@@ -4,4 +4,4 @@ A simple screen recording application built with **JavaScript**, **Tailwind CSS*
 
 ## Live Version
 
-You can try the live version of the Screen Recorder [here]([https://recscreen.vercel.app/])
+You can try the live version of the Screen Recorder [here](https://recscreen.vercel.app/)
