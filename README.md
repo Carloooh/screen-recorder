@@ -1,6 +1,6 @@
 # Screen Recorder
 
-A simple screen recording application built with **TypeScript**, **Tailwind CSS**, and **Astro**.
+A simple screen recording application built with **JavaScript**, **Tailwind CSS**, and **Astro**.
 
 ## Live Version
 
